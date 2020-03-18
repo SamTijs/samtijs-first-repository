@@ -1,2 +1,2 @@
-# samtijs-first-repository
-my first repository
+# Individual-Site-Sam-Tijs
+My individual site
