@@ -1,1 +1,12 @@
 @charset "utf-8";
+
+body {
+	background-color: #CAF1FF;
+	color: #006672;
+	}
+.sound-background {
+	background-image: url("../images/pattern.jpg")
+		}
+.my-navbar {
+	background-color: #00709F
+		}
